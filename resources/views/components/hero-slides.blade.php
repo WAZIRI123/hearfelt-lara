@@ -27,7 +27,7 @@
                                 style="background-repeat: no-repeat; background-image: url(&quot;{{asset('assets/images/farming-project.jpg')}}&quot;); background-size: cover; background-position: center center; width: 100%; height: 100%; opacity: 1; visibility: inherit; z-index: 20;"
                                 src="{{asset('assets/images/farming-project.jpg')}}"></div>
                             <div class="tp-kbimg-wrap "
-                                style="z-index: 2; width: 100%; height: 100%; top: 0px; left: 0px; position: absolute; transform: translate3d(-173.672px, 0px, 0px); transform-origin: 0% 0% 0px;">
+                                style="z-index: 2; width: 100%; height: 100%; top: 0px; left: 677px; position: absolute; transform: translate3d(-173.672px, 0px, 0px); transform-origin: 0% 0% 0px;">
                                 <img class="tp-kbimg" src="{{asset('assets/images/farming-project.jpg')}}"
                                     style="position: absolute; height: 800px; width: 1433px; transform: matrix3d(1.13854, 6.1e-05, 0, 0, -6.1e-05, 1.13854, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1); transform-origin: 0% 0% 0px;"
                                     width="1920" height="1072"></div>

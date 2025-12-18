@@ -4,8 +4,8 @@
             <div class="huruma-responsive-menu">
                 <div class="logo">
                     <a href="index.html">
-                        <img src="{{ asset('assets/images/heartfelt-logo.png') }}" class="white-logo" alt="logo">
-                        <img src="{{ asset('assets/images/heartfelt-logo.png') }}" class="black-logo" alt="image">
+                        <img src="{{ asset('assets/images/heartfelt-logo.png') }}" class="white-logo" alt="logo" width="80" height="5">
+                        <img src="{{ asset('assets/images/heartfelt-logo.png') }}" class="black-logo" alt="image" width="80" height="5">
                     </a>
                 </div>
             </div>
@@ -16,15 +16,14 @@
         <div class="container">
             <nav class="navbar navbar-expand-md navbar-light">
                 <a class="navbar-brand" href="index.html">
-                    <img src="assets/images/heartfelt-logo.png" class="white-logo" alt="logo">
-                    <img src="assets/images/heartfelt-logo.png" class="black-logo" alt="image">
+                    <img src="assets/images/heartfelt-logo.png" class="white-logo" alt="logo" width="80" height="20">
+                    <img src="assets/images/heartfelt-logo.png" class="black-logo" alt="image" width="80" height="20">
                 </a>
 
                 <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent" style="display: block;">
                     <ul class="navbar-nav">
                         <li class="nav-item">
                             <a href="#" class="nav-link active">
-                                <span>o1</span>
                                 Home
                                 <i class="bx bx-chevron-down"></i>
                             </a>
@@ -63,14 +62,13 @@
 
                         <li class="nav-item">
                             <a href="about.html" class="nav-link">
-                                <span>o2</span>
+                              
                                 About
                             </a>
                         </li>
 
                         <li class="nav-item">
                             <a href="#" class="nav-link">
-                                <span>o3</span>
                                 Causes
                                 <i class="bx bx-chevron-down"></i>
                             </a>
@@ -91,7 +89,7 @@
 
                         <li class="nav-item">
                             <a href="#" class="nav-link">
-                                <span>o4</span>
+      
                                 Pages
                                 <i class="bx bx-chevron-down"></i>
                             </a>
@@ -185,7 +183,7 @@
 
                         <li class="nav-item">
                             <a href="#" class="nav-link">
-                                <span>o5</span>
+     
                                 Blog
                                 <i class="bx bx-chevron-down"></i>
                             </a>
@@ -212,64 +210,11 @@
 
                         <li class="nav-item">
                             <a href="contact.html" class="nav-link">
-                                <span>o6</span>
+       
                                 Contact
                             </a>
                         </li>
                     </ul>
-
-                    <div class="others-options">
-                        <div class="dropdown language-switcher d-inline-block">
-                            <button class="dropdown-toggle" type="button" data-bs-toggle="dropdown"
-                                aria-haspopup="true" aria-expanded="false">
-                                <img src="assets/img/flag/france-flag.jpg" class="shadow" alt="image">
-                                <span>Eng <i class="bx bx-chevron-down"></i></span>
-                            </button>
-
-                            <div class="dropdown-menu">
-                                <a href="javascript:;" class="dropdown-item d-flex align-items-center">
-                                    <img src="assets/img/flag/germany-flag.jpg" class="shadow-sm" alt="flag">
-                                    <span>Ger</span>
-                                </a>
-                                <a href="javascript:;" class="dropdown-item d-flex align-items-center">
-                                    <img src="assets/img/flag/italy-flag.jpg" class="shadow-sm" alt="flag">
-                                    <span>Fre</span>
-                                </a>
-                                <a href="javascript:;" class="dropdown-item d-flex align-items-center">
-                                    <img src="assets/img/flag/spain-flag.jpg" class="shadow-sm" alt="flag">
-                                    <span>Spa</span>
-                                </a>
-                                <a href="javascript:;" class="dropdown-item d-flex align-items-center">
-                                    <img src="assets/img/flag/russia-flag.jpg" class="shadow-sm" alt="flag">
-                                    <span>Rus</span>
-                                </a>
-                                <a href="javascript:;" class="dropdown-item d-flex align-items-center">
-                                    <img src="assets/img/flag/us-flag.jpg" class="shadow-sm" alt="flag">
-                                    <span>Ita</span>
-                                </a>
-                            </div>
-                        </div>
-
-                        <div class="option-item"><i class="search-btn bx bx-search"></i>
-                            <i class="close-btn bx bx-x"></i>
-                            <div class="search-overlay search-popup">
-                                <div class="search-box">
-                                    <form class="search-form">
-                                        <input class="search-input" name="search" placeholder="Search"
-                                            type="text">
-
-                                        <button class="search-button" type="submit">
-                                            <i class="bx bx-search"></i>
-                                        </button>
-                                    </form>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="burger-menu">
-                            <i class="flaticon-menu"></i>
-                        </div>
-                    </div>
                 </div>
             </nav>
         </div>

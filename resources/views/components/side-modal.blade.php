@@ -14,42 +14,42 @@
             <ul>
                 <li>
                     <a href="https://www.instagram.com/" target="_blank">
-                        <img src="assets/img/sidebar/1.jpg" alt="image">
+                        <img src="{{asset('assets/images/farming-project.jpg')}}" alt="image">
                     </a>
                 </li>
                 <li>
                     <a href="https://www.instagram.com/" target="_blank">
-                        <img src="assets/img/sidebar/2.jpg" alt="image">
+                        <img src="{{asset('assets/images/farming-project.jpg')}}" alt="image">
                     </a>
                 </li>
                 <li>
                     <a href="https://www.instagram.com/" target="_blank">
-                        <img src="assets/img/sidebar/3.jpg" alt="image">
+                        <img src="{{asset('assets/images/farming-project.jpg')}}" alt="image">
                     </a>
                 </li>
                 <li>
                     <a href="https://www.instagram.com/" target="_blank">
-                        <img src="assets/img/sidebar/4.jpg" alt="image">
+                        <img src="{{asset('assets/images/farming-project.jpg')}}" alt="image">
                     </a>
                 </li>
                 <li>
                     <a href="https://www.instagram.com/" target="_blank">
-                        <img src="assets/img/sidebar/5.jpg" alt="image">
+                        <img src="{{asset('assets/images/farming-project.jpg')}}" alt="image">
                     </a>
                 </li>
                 <li>
                     <a href="https://www.instagram.com/" target="_blank">
-                        <img src="assets/img/sidebar/6.jpg" alt="image">
+                        <img src="{{asset('assets/images/farming-project.jpg')}}" alt="image">
                     </a>
                 </li>
                 <li>
                     <a href="https://www.instagram.com/" target="_blank">
-                        <img src="assets/img/sidebar/7.jpg" alt="image">
+                        <img src="{{asset('assets/images/farming-project.jpg')}}" alt="image">
                     </a>
                 </li>
                 <li>
                     <a href="https://www.instagram.com/" target="_blank">
-                        <img src="assets/img/sidebar/8.jpg" alt="image">
+                        <img src="{{asset('assets/images/farming-project.jpg')}}" alt="image">
                     </a>
                 </li>
             </ul>
